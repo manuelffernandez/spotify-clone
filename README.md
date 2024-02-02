@@ -1,36 +1,48 @@
+# Spotify clone
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+### Screenshot :iphone:
 
-First, run the development server:
+Coming soon!
+
+### Main features :page_facing_up:
+
+Coming soon!
+
+### Techs :wrench:
+
+Coming soon!
+
+## Deploy link :link:
+
+### :arrow_right: [https://spotify-clone-prod.vercel.app](https://spotify-clone-prod.vercel.app) :arrow_left:
+
+## Run locally
+
+First, install the dependencies. Open a terminal within the root directory of the repo and run:
+
+```bash
+npm install
+```
+
+Then run the development server with:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Learn Next.js](https://nextjs.org/learn/dashboard-app) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contact me :arrow_down:
 
-## Deploy on Vercel
+#### :email: [manufer6503@gmail.com](mailto:manufer6503@gmail.com)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+#### :link: [linkedin](https://www.linkedin.com/in/manuelffernandez/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+#### :iphone: +54 9 294 4650354
